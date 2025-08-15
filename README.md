@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @TamirPalay
 - 👀 I’m interested in software solutions, coding, problem solving, web and app development
-- 🌱 I’m currently learning computer science through the University of Witwatersrand. I am in my final year.
-- 💞️ I’m looking to collaborate on any software-related projects.
+- 🌱 I am a computer science graduate.
+- 💞️ I’m looking to collaborate on any software-related projects with a good goal.
+- I am constantly pushing myself to grow and improve with weekly courses and new personal software projects.
 - 📫 How to reach me: typalay@gmail.com
 - ⚡ Fun fact: I developed an algorithm to come up with random fun facts about myself because I can never think of  any.
 
